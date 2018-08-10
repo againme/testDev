@@ -1,0 +1,12 @@
+echo "# testDev" >> README.md
+git init
+git add README.md
+
+git config --global user.email "againme.choi@gmail.com"
+git config --global user.name "SUNG HO CHOI"
+
+git remote add origin https://github.com/againme/testDev.git
+git push -u origin master
+
+git login 
+againme / git1168
